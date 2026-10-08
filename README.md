@@ -11,13 +11,54 @@ Construyo productos de punta a punta: desde la app web o móvil hasta el desplie
 - **DevOps:** despliegues con Dokploy y Docker, alertas, seguridad y monitoreo de servidores Linux.
 - **IA aplicada:** integración de Claude en productos y plugins para flujos de desarrollo.
 
+## Experiencia
+
+### Desarrollador de software · World Travel Assist · 4 años
+
+Mi trabajo principal fue resolver problemas operativos internos con proyectos tecnológicos: identificar cómo se hacía un proceso, detectar dónde se perdía tiempo y construir una solución que agilizara y optimizara el flujo de trabajo.
+
+Una tarea constante fue **migrar procesos que vivían en hojas de Excel a sistemas diseñados para cada área**. Se pasó de archivos lentos de abrir y con la información dispersa a sistemas organizados y rápidos, con mejores filtros, visualizaciones y fluidez, lo que redujo de forma notable el tiempo de trabajo en las áreas operativas.
+
+Estos son algunos de los proyectos que desarrollé:
+
+**Plataforma web para gestionar mensajes de WhatsApp con integración de Twilio** (Django, API de Twilio)
+
+- **Problema:** la atención por WhatsApp estaba repartida en varias cuentas gestionadas de forma manual. Meta bloqueaba esos números con frecuencia por detectarlos como spam, y no había control sobre quién accedía a cada conversación.
+- **Solución:** construí una aplicación web en Django que centraliza en un solo lugar todos los mensajes entrantes de los números de la empresa. Usé la API de Twilio para registrar los números en Meta y operarlos de forma oficial.
+- **Resultado:** los números ganaron confianza ante Meta y dejaron de bloquearse con tanta frecuencia. Además, el acceso quedó gestionado por permisos y los equipos responden desde un único panel web.
+
+**Sistema de inventario y seguimiento de activos tecnológicos**
+
+- **Problema:** no existía un registro centralizado de los equipos ni del historial de lo que ocurría con cada uno, como mantenimientos y novedades.
+- **Solución:** desarrollé un sistema con módulos para recursos físicos (computadores, celulares, impresoras, aires acondicionados, ventiladores y más) y no físicos (licencias y un calendario de tareas que se relaciona con los registros de cualquier módulo). Diseñé un módulo de comentarios reutilizable, implementado en todos los módulos, que deja la trazabilidad completa de cada equipo.
+- **Integración:** expuse una API para que otros sistemas internos consulten los registros y creen comentarios, de modo que las aplicaciones de la empresa se comunican entre sí.
+- **Resultado:** historial completo y consultable de cada recurso, y un punto de integración para el resto de los sistemas.
+
+**Landing pages informativas para clientes, desarrolladas como PWA**
+
+Sitios web con interfaces intuitivas y fáciles de navegar, construidos como aplicaciones web progresivas.
+
+- **Beneficios de la PWA:**
+  - Funcionan sin conexión gracias al caché offline.
+  - Se instalan en el dispositivo como una app, sin pasar por una tienda.
+  - Cargan rápido, incluso con una conexión lenta.
+  - Admiten notificaciones y se adaptan a cualquier pantalla.
+  - Un solo código sirve para móvil y escritorio, lo que reduce el costo de mantenimiento.
+
 ## Proyectos destacados
+
+Incluye productos que construyo en [Wordev](https://github.com/wWordDevw), la empresa que fundé con amigos; algunos tienen código privado.
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
+| [**Realm**](https://realm.lat/) | Espacio de escritura con IA para novelistas y guionistas: biblia de la historia, navegador de capítulos, editor Tiptap y asistente creativo en streaming | Next.js, NestJS, Tiptap, IA |
+| [**Eventia**](https://eventia.events/) | Marketplace para encontrar, comparar y contratar profesionales de eventos en Colombia, con propuestas y panel para cada profesional | Next.js 15, NestJS 11, PostgreSQL, Redis |
+| **ERP Vowtech (IntelligentERP)** | Plantilla base para ERPs web multiempresa con RBAC por perfiles, módulos activables (Comercial, Compras, Facturación, Cobranza, Tesorería, Inventario, Reportes) y generadores de código | PHP 8.3, Laravel 12, Livewire 4, Tailwind 4, MariaDB |
+| **Emi Call** | Videollamadas médicas en 1080p con degradación automática de calidad, grabación, chat multimedia e historial | Go (Pion WebRTC), Angular 17, PostgreSQL |
+| **Documa** | SaaS que convierte notas en crudo (escritas o dictadas) en documentos Word formales con IA y editor ONLYOFFICE embebido | NestJS, React, BullMQ, Claude, MinIO |
+| **Terap-IA** | Gestión de clínicas de terapia: seguimiento de pacientes y objetivos, notas diarias generadas automáticamente | TypeScript, PostgreSQL, Docker |
+| [**Insumos Pereira**](https://insumos.vowtech.lat) | PWA con mapa y GPS para inventariar insumos de ayuda en puntos de acopio, con API pública documentada con OpenAPI | Node, SQLite, PWA |
 | [**Sembra**](https://github.com/AloreBB/sembra) | Editor visual de documentos educativos tipo Canva, con exportación a PDF y búsqueda difusa | Next.js 16, Prisma 7, Better Auth, fabric.js, Tailwind 4 |
-| [**Carrera de Tiempo**](https://github.com/AloreBB/carrera-de-tiempo) | PWA multijugador con mapa en vivo: eliges un destino, invitas con un código y gana quien llegue primero | Turborepo, Next.js 15, NestJS, Socket.IO, MapLibre |
-| [**MineBot Voice**](https://github.com/AloreBB/minebot-voice) | Bot de Minecraft controlado por voz en lenguaje natural con Claude AI | TypeScript, Web Speech API, Claude |
 | [**Muse plugin para Claude Code**](https://github.com/AloreBB/muse-plugin-cc) | Plugin para revisar código y delegar tareas desde Claude Code | JavaScript |
 | [**Hornet**](https://github.com/AloreBB/hornet) | Monitor ligero de seguridad para servidores Linux con alertas push vía ntfy | Shell |
 | [**Despliegues Telegram**](https://github.com/AloreBB/despliegues-telegram) | Servicio que recibe webhooks de Dokploy y los envía a Telegram con formato | Go, Docker |
