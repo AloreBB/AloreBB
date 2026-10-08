@@ -96,5 +96,6 @@ Un rol **Full Stack / Frontend / Backend** donde pueda aportar desde el primer d
 
 ## Contacto
 
-- 📫 Escríbeme por [GitHub](https://github.com/AloreBB) o por [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
-- 📧 TU-CORREO@ejemplo.com
+- 📫 Escríbeme por [GitHub](https://github.com/AloreBB) o por [LinkedIn](https://www.linkedin.com/in/kevin-jovy)
+- 📧 kev.castrillon.contacto@gmail.com
+- 🏢 Para proyectos con [Wordev / Vowtech](https://github.com/wWordDevw): info-comercial@vowtech.co
