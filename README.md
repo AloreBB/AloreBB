@@ -53,6 +53,7 @@ Incluye productos que construyo en [Wordev](https://github.com/wWordDevw), la em
 |---|---|---|
 | [**Realm**](https://realm.lat/) | Espacio de escritura con IA para novelistas y guionistas: biblia de la historia, navegador de capítulos, editor Tiptap y asistente creativo en streaming | Next.js, NestJS, Tiptap, IA |
 | [**Eventia**](https://eventia.events/) | Marketplace para encontrar, comparar y contratar profesionales de eventos en Colombia, con propuestas y panel para cada profesional | Next.js 15, NestJS 11, PostgreSQL, Redis |
+| [**Nuestro Circo**](https://nuestrocirco.com) | SaaS multi-tenant que conecta a artistas de circo y circos o agencias en Latinoamérica: perfiles públicos, ofertas de trabajo, postulaciones, roster, shows y finanzas | Next.js 16, Prisma 7, PostgreSQL, Better Auth, Tailwind 4, MercadoPago |
 | **ERP Vowtech (IntelligentERP)** | Plantilla base para ERPs web multiempresa con RBAC por perfiles, módulos activables (Comercial, Compras, Facturación, Cobranza, Tesorería, Inventario, Reportes) y generadores de código | PHP 8.3, Laravel 12, Livewire 4, Tailwind 4, MariaDB |
 | **Emi Call** | Videollamadas médicas en 1080p con degradación automática de calidad, grabación, chat multimedia e historial | Go (Pion WebRTC), Angular 17, PostgreSQL |
 | **Documa** | SaaS que convierte notas en crudo (escritas o dictadas) en documentos Word formales con IA y editor ONLYOFFICE embebido | NestJS, React, BullMQ, Claude, MinIO |
@@ -72,6 +73,7 @@ Incluye productos que construyo en [Wordev](https://github.com/wWordDevw), la em
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
