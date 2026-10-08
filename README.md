@@ -7,6 +7,7 @@ Construyo productos de punta a punta: desde la app web o móvil hasta el desplie
 
 - **Web y móvil:** aplicaciones con Next.js, React, React Native (Expo) y Kotlin.
 - **Backend:** APIs con NestJS, Prisma, PostgreSQL, WebSockets (Socket.IO) y servicios en Go.
+- **Pasarelas de pago:** implementación de pagos en línea con ePayco y MercadoPago.
 - **Automatización e integraciones:** bots de Telegram, webhooks, scraping y herramientas para IA.
 - **DevOps:** despliegues con Dokploy y Docker, alertas, seguridad y monitoreo de servidores Linux.
 - **IA aplicada:** integración de Claude en productos y plugins para flujos de desarrollo.
