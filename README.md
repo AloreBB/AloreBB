@@ -3,6 +3,8 @@
 **Desarrollador Full Stack** · TypeScript, Next.js, NestJS, Go y Python
 Construyo productos de punta a punta: desde la app web o móvil hasta el despliegue y el monitoreo en producción.
 
+🏢 Miembro de **[Vowtech](https://vowtech.co/)** · [vowtech.co](https://vowtech.co/)
+
 ## Qué hago
 
 - **Web y móvil:** aplicaciones con Next.js, React, React Native (Expo), Flutter y Kotlin.
@@ -101,3 +103,4 @@ Un rol **Full Stack / Frontend / Backend** donde pueda aportar desde el primer d
 - 📫 Escríbeme por [GitHub](https://github.com/AloreBB) o por [LinkedIn](https://www.linkedin.com/in/kevin-jovy)
 - 📧 kev.castrillon.contacto@gmail.com
 - 🏢 Para proyectos con [Wordev / Vowtech](https://github.com/wWordDevw): info-comercial@vowtech.co
+- 🌐 Web de Vowtech: [vowtech.co](https://vowtech.co/)
