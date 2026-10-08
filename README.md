@@ -5,7 +5,7 @@ Construyo productos de punta a punta: desde la app web o móvil hasta el desplie
 
 ## Qué hago
 
-- **Web y móvil:** aplicaciones con Next.js, React, React Native (Expo) y Kotlin.
+- **Web y móvil:** aplicaciones con Next.js, React, React Native (Expo), Flutter y Kotlin.
 - **Backend:** APIs con NestJS, Prisma, PostgreSQL, WebSockets (Socket.IO) y servicios en Go.
 - **Pasarelas de pago:** implementación de pagos en línea con ePayco y MercadoPago.
 - **Automatización e integraciones:** bots de Telegram, webhooks, scraping y herramientas para IA.
@@ -76,6 +76,7 @@ Incluye productos que construyo en [Wordev](https://github.com/wWordDevw), la em
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
