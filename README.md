@@ -1,5 +1,7 @@
 # Hi, I'm Kevin 👋
 
+🇺🇸 **English** · 🇨🇴 [Español](https://github.com/AloreBB/AloreBB/blob/main/README.es.md)
+
 **Full Stack Developer** · TypeScript, Next.js, NestJS, Go and Python
 
 I build products end to end: from the web or mobile app to deployment and production monitoring.
