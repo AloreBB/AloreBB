@@ -1,76 +1,77 @@
-# Hola, soy Kevin 👋
+# Hi, I'm Kevin 👋
 
-**Desarrollador Full Stack** · TypeScript, Next.js, NestJS, Go y Python
-Construyo productos de punta a punta: desde la app web o móvil hasta el despliegue y el monitoreo en producción.
+**Full Stack Developer** · TypeScript, Next.js, NestJS, Go and Python
 
-🌐 Portafolio: **[alore.dev](https://alore.dev)** · proyectos, trayectoria y CV descargable
+I build products end to end: from the web or mobile app to deployment and production monitoring.
 
-🏢 Miembro de **[Vowtech](https://vowtech.co/)** · [vowtech.co](https://vowtech.co/)
+🌐 Portfolio: **[alore.dev](https://alore.dev)** · projects, experience and downloadable CV
 
-## Qué hago
+🏢 Co-founder of **[Vowtech](https://vowtech.co/)** · [vowtech.co](https://vowtech.co/)
 
-- **Web y móvil:** aplicaciones con Next.js, React, React Native (Expo), Flutter y Kotlin.
-- **Backend:** APIs con NestJS, Prisma, PostgreSQL, WebSockets (Socket.IO) y servicios en Go.
-- **Pasarelas de pago:** implementación de pagos en línea con ePayco y MercadoPago.
-- **Automatización e integraciones:** bots de Telegram, webhooks, scraping y herramientas para IA.
-- **DevOps:** despliegues con Dokploy y Docker, alertas, seguridad y monitoreo de servidores Linux.
-- **IA aplicada:** integración de Claude en productos y plugins para flujos de desarrollo.
+## What I do
 
-## Experiencia
+- **Web & mobile:** apps with Next.js, React, React Native (Expo), Flutter and Kotlin.
+- **Backend:** APIs with NestJS, Prisma, PostgreSQL, WebSockets (Socket.IO) and Go services.
+- **Payment gateways:** online payments with ePayco and MercadoPago.
+- **Automation & integrations:** Telegram bots, webhooks, scraping and AI tooling.
+- **DevOps:** deployments with Dokploy and Docker, alerting, security and Linux server monitoring.
+- **Applied AI:** Claude integrations in products and plugins for development workflows.
 
-### Desarrollador de software · World Travel Assist · 4 años
+## Experience
 
-Mi trabajo principal fue resolver problemas operativos internos con proyectos tecnológicos: identificar cómo se hacía un proceso, detectar dónde se perdía tiempo y construir una solución que agilizara y optimizara el flujo de trabajo.
+### Software Developer · World Travel Assist · 4 years
 
-Una tarea constante fue **migrar procesos que vivían en hojas de Excel a sistemas diseñados para cada área**. Se pasó de archivos lentos de abrir y con la información dispersa a sistemas organizados y rápidos, con mejores filtros, visualizaciones y fluidez, lo que redujo de forma notable el tiempo de trabajo en las áreas operativas.
+My main job was solving internal operational problems with technology: understanding how a process was done, finding where time was being lost and building a solution that sped up and streamlined the workflow.
 
-Estos son algunos de los proyectos que desarrollé:
+A recurring task was **migrating processes that lived in Excel spreadsheets to systems designed for each department**. Teams went from slow files with scattered information to organized, fast systems with better filters, visualizations and flow, which noticeably reduced working time in operations.
 
-**Plataforma web para gestionar mensajes de WhatsApp con integración de Twilio** (Django, API de Twilio)
+Some of the projects I built:
 
-- **Problema:** la atención por WhatsApp estaba repartida en varias cuentas gestionadas de forma manual. Meta bloqueaba esos números con frecuencia por detectarlos como spam, y no había control sobre quién accedía a cada conversación.
-- **Solución:** construí una aplicación web en Django que centraliza en un solo lugar todos los mensajes entrantes de los números de la empresa. Usé la API de Twilio para registrar los números en Meta y operarlos de forma oficial.
-- **Resultado:** los números ganaron confianza ante Meta y dejaron de bloquearse con tanta frecuencia. Además, el acceso quedó gestionado por permisos y los equipos responden desde un único panel web.
+**Web platform to manage WhatsApp messages with Twilio integration** (Django, Twilio API)
 
-**Sistema de inventario y seguimiento de activos tecnológicos**
+- **Problem:** WhatsApp support was spread across several manually managed accounts. Meta frequently blocked those numbers as spam, and there was no control over who could access each conversation.
+- **Solution:** I built a Django web app that centralizes all incoming messages from the company's numbers in one place. I used the Twilio API to register the numbers with Meta and run them officially.
+- **Result:** the numbers earned Meta's trust and stopped getting blocked so often. Access is now permission-based and teams reply from a single web panel.
 
-- **Problema:** no existía un registro centralizado de los equipos ni del historial de lo que ocurría con cada uno, como mantenimientos y novedades.
-- **Solución:** desarrollé un sistema con módulos para recursos físicos (computadores, celulares, impresoras, aires acondicionados, ventiladores y más) y no físicos (licencias y un calendario de tareas que se relaciona con los registros de cualquier módulo). Diseñé un módulo de comentarios reutilizable, implementado en todos los módulos, que deja la trazabilidad completa de cada equipo.
-- **Integración:** expuse una API para que otros sistemas internos consulten los registros y creen comentarios, de modo que las aplicaciones de la empresa se comunican entre sí.
-- **Resultado:** historial completo y consultable de cada recurso, y un punto de integración para el resto de los sistemas.
+**IT asset inventory and tracking system**
 
-**Landing pages informativas para clientes, desarrolladas como PWA**
+- **Problem:** there was no central record of equipment or of the history of what happened to each item, such as maintenance and incidents.
+- **Solution:** I built a system with modules for physical resources (computers, phones, printers, air conditioners, fans and more) and non-physical ones (licenses and a task calendar linked to records in any module). I designed a reusable comments module, used across every module, that keeps a full audit trail for each item.
+- **Integration:** I exposed an API so other internal systems can query records and create comments, letting the company's applications talk to each other.
+- **Result:** a complete, searchable history for every resource, plus an integration point for the rest of the systems.
 
-Sitios web con interfaces intuitivas y fáciles de navegar, construidos como aplicaciones web progresivas.
+**Informational landing pages for clients, built as PWAs**
 
-- **Beneficios de la PWA:**
-  - Funcionan sin conexión gracias al caché offline.
-  - Se instalan en el dispositivo como una app, sin pasar por una tienda.
-  - Cargan rápido, incluso con una conexión lenta.
-  - Admiten notificaciones y se adaptan a cualquier pantalla.
-  - Un solo código sirve para móvil y escritorio, lo que reduce el costo de mantenimiento.
+Websites with intuitive, easy-to-navigate interfaces, built as progressive web apps.
 
-## Proyectos destacados
+- **PWA benefits:**
+  - Work offline thanks to caching.
+  - Install on the device like an app, without an app store.
+  - Load fast, even on slow connections.
+  - Support notifications and adapt to any screen.
+  - One codebase for mobile and desktop, which lowers maintenance costs.
 
-Incluye productos que construyo en [Wordev](https://github.com/wWordDevw), la empresa que fundé con amigos; algunos tienen código privado.
+## Featured projects
 
-| Proyecto | Qué es | Tecnologías |
+Includes products I build at [Wordev](https://github.com/wWordDevw), the company I founded with friends; some have private source code.
+
+| Project | What it is | Tech |
 |---|---|---|
-| [**Realm**](https://realm.lat/) | Espacio de escritura con IA para novelistas y guionistas: biblia de la historia, navegador de capítulos, editor Tiptap y asistente creativo en streaming | Next.js, NestJS, Tiptap, IA |
-| [**Eventia**](https://eventia.events/) | Marketplace para encontrar, comparar y contratar profesionales de eventos en Colombia, con propuestas y panel para cada profesional | Next.js 15, NestJS 11, PostgreSQL, Redis |
-| [**Nuestro Circo**](https://nuestrocirco.com) | SaaS multi-tenant que conecta a artistas de circo y circos o agencias en Latinoamérica: perfiles públicos, ofertas de trabajo, postulaciones, roster, shows y finanzas | Next.js 16, Prisma 7, PostgreSQL, Better Auth, Tailwind 4, MercadoPago |
-| **ERP Vowtech (IntelligentERP)** | Plantilla base para ERPs web multiempresa con RBAC por perfiles, módulos activables (Comercial, Compras, Facturación, Cobranza, Tesorería, Inventario, Reportes) y generadores de código | PHP 8.3, Laravel 12, Livewire 4, Tailwind 4, MariaDB |
-| **Emi Call** | Videollamadas médicas en 1080p con degradación automática de calidad, grabación, chat multimedia e historial | Go (Pion WebRTC), Angular 17, PostgreSQL |
-| **Documa** | SaaS que convierte notas en crudo (escritas o dictadas) en documentos Word formales con IA y editor ONLYOFFICE embebido | NestJS, React, BullMQ, Claude, MinIO |
-| **Terap-IA** | Gestión de clínicas de terapia: seguimiento de pacientes y objetivos, notas diarias generadas automáticamente | TypeScript, PostgreSQL, Docker |
-| [**Insumos Pereira**](https://insumos.vowtech.lat) | PWA con mapa y GPS para inventariar insumos de ayuda en puntos de acopio, con API pública documentada con OpenAPI | Node, SQLite, PWA |
-| [**Sembra**](https://github.com/AloreBB/sembra) | Editor visual de documentos educativos tipo Canva, con exportación a PDF y búsqueda difusa | Next.js 16, Prisma 7, Better Auth, fabric.js, Tailwind 4 |
-| [**Muse plugin para Claude Code**](https://github.com/AloreBB/muse-plugin-cc) | Plugin para revisar código y delegar tareas desde Claude Code | JavaScript |
-| [**Hornet**](https://github.com/AloreBB/hornet) | Monitor ligero de seguridad para servidores Linux con alertas push vía ntfy | Shell |
-| [**Despliegues Telegram**](https://github.com/AloreBB/despliegues-telegram) | Servicio que recibe webhooks de Dokploy y los envía a Telegram con formato | Go, Docker |
-| [**DoIt**](https://github.com/AloreBB/doit-app) | App móvil de recordatorios con notificaciones locales, modo offline y pruebas automatizadas | Expo, React Native, Jest |
-| [**Roxy Power Bot**](https://github.com/AloreBB/roxy-power-bot) | Bot de Telegram para encender (Wake-on-LAN) y apagar un PC por SSH, sin dependencias | Python |
-| [**Silkdash**](https://github.com/AloreBB/silkdash-pwnagotchi) | Plugin de dashboard con temática Hollow Knight para Pwnagotchi | Python |
+| [**Realm**](https://realm.lat/) | AI writing workspace for novelists and screenwriters: story bible, chapter navigator, Tiptap editor and a streaming creative assistant | Next.js, NestJS, Tiptap, AI |
+| [**Eventia**](https://eventia.events/) | Marketplace to find, compare and hire event professionals in Colombia, with proposals and a dashboard for each professional | Next.js 15, NestJS 11, PostgreSQL, Redis |
+| [**Nuestro Circo**](https://nuestrocirco.com) | Multi-tenant SaaS connecting circus artists with circuses and agencies across Latin America: public profiles, job offers, applications, roster, shows and finances | Next.js 16, Prisma 7, PostgreSQL, Better Auth, Tailwind 4, MercadoPago |
+| **Vowtech ERP (IntelligentERP)** | Base template for multi-company web ERPs with profile-based RBAC, pluggable modules (Sales, Purchasing, Invoicing, Collections, Treasury, Inventory, Reports) and code generators | PHP 8.3, Laravel 12, Livewire 4, Tailwind 4, MariaDB |
+| **Emi Call** | 1080p medical video calls with automatic quality degradation, recording, multimedia chat and history | Go (Pion WebRTC), Angular 17, PostgreSQL |
+| **Documa** | SaaS that turns raw notes (written or dictated) into formal Word documents with AI and an embedded ONLYOFFICE editor | NestJS, React, BullMQ, Claude, MinIO |
+| **Terap-IA** | Therapy clinic management: patient and goal tracking, automatically generated daily notes | TypeScript, PostgreSQL, Docker |
+| [**Insumos Pereira**](https://insumos.vowtech.lat) | Map-based PWA with GPS to inventory relief supplies at collection points, with a public API documented in OpenAPI | Node, SQLite, PWA |
+| [**Sembra**](https://github.com/AloreBB/sembra) | Canva-style visual editor for educational documents, with PDF export and fuzzy search | Next.js 16, Prisma 7, Better Auth, fabric.js, Tailwind 4 |
+| [**Muse plugin for Claude Code**](https://github.com/AloreBB/muse-plugin-cc) | Plugin to review code and delegate tasks from Claude Code | JavaScript |
+| [**Hornet**](https://github.com/AloreBB/hornet) | Lightweight security monitor for Linux servers with push alerts via ntfy | Shell |
+| [**Despliegues Telegram**](https://github.com/AloreBB/despliegues-telegram) | Service that receives Dokploy webhooks and forwards them to Telegram, nicely formatted | Go, Docker |
+| [**DoIt**](https://github.com/AloreBB/doit-app) | Mobile reminders app with local notifications, offline mode and automated tests | Expo, React Native, Jest |
+| [**Roxy Power Bot**](https://github.com/AloreBB/roxy-power-bot) | Telegram bot to turn a PC on (Wake-on-LAN) and off over SSH, zero dependencies | Python |
+| [**Silkdash**](https://github.com/AloreBB/silkdash-pwnagotchi) | Hollow Knight themed dashboard plugin for Pwnagotchi | Python |
 
 ## Stack
 
@@ -89,21 +90,21 @@ Incluye productos que construyo en [Wordev](https://github.com/wWordDevw), la em
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## Cómo trabajo
+## How I work
 
-- Código tipado, simple y mantenible (DRY y KISS).
-- Pruebas automatizadas en la lógica crítica.
-- Entrego en producción: despliegue, notificaciones y monitoreo incluidos.
-- Documento lo que construyo para que otros puedan continuarlo.
+- Typed, simple and maintainable code (DRY and KISS).
+- Automated tests on critical logic.
+- I ship to production: deployment, notifications and monitoring included.
+- I document what I build so others can pick it up.
 
-## Estoy buscando
+## What I'm looking for
 
-Un rol **Full Stack / Frontend / Backend** donde pueda aportar desde el primer día y seguir creciendo en un equipo de producto.
+A **Full Stack / Frontend / Backend** role where I can contribute from day one and keep growing on a product team.
 
-## Contacto
+## Contact
 
-- 🌐 Portafolio y CV: [alore.dev](https://alore.dev)
-- 📫 Escríbeme por [GitHub](https://github.com/AloreBB) o por [LinkedIn](https://www.linkedin.com/in/kevin-jovy)
+- 🌐 Portfolio & CV: [alore.dev](https://alore.dev)
+- 📫 Reach me on [GitHub](https://github.com/AloreBB) or [LinkedIn](https://www.linkedin.com/in/kevin-jovy)
 - 📧 kev.castrillon.contacto@gmail.com
-- 🏢 Para proyectos con [Wordev / Vowtech](https://github.com/wWordDevw): info-comercial@vowtech.co
-- 🌐 Web de Vowtech: [vowtech.co](https://vowtech.co/)
+- 🏢 For projects with [Wordev / Vowtech](https://github.com/wWordDevw): info-comercial@vowtech.co
+- 🌐 Vowtech website: [vowtech.co](https://vowtech.co/)
